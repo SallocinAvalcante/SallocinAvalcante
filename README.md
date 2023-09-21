@@ -5,7 +5,7 @@
 
 <p align="left"> 
 ​⭐​ Welcome to my GitHub ​⭐​ <br><br>
- I'm Nicollas Cavalcante, I´am a Dev in Java, C#, and PHP, i study programming and Pentest since of my 12 years old
+ I'm Nicollas Cavalcante, I´am a Dev in Java, C#, and PHP, i´ve studying programming and Pentest since of my 12 years old
 </p>
 
 <p align="left">
@@ -22,7 +22,7 @@
 </p>
 
 <p align="left">
-  🥰 I like comunicate with peoples and code, hacking is a hobbie, learning PenTest too
+  🥰 I´am a communication people, like code and hacking, have a lot of softskill like leadership, also i know about ERP and Agile Methodology(SCRUM)
 </p>
 <br>
 
@@ -72,5 +72,6 @@
   
 
 
+I hope you enjoyed, I am the right choice for your business :D
 
 
