@@ -1,7 +1,7 @@
 ## ​🐵​Nicollas Cavalcante🐵
 ### Hello my new Employer ;)! 
 
-<img src="https://th.bing.com/th/id/R.6e4b4c1c7cc0ff4a4e9b74a410c1947e?rik=fzhJWJumJCQlTQ&pid=ImgRaw&r=0" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 
 <p align="left"> 
 ​⭐​ Welcome to my GitHub ​⭐​ <br><br>
