@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  📚 Studying Information systems(SOFTWARE ENGINER) 4/8 
+  📚 Studying Information systems(SOFTWARE ENGINER) 7/8 
 </p>
 
 <p align="left">
