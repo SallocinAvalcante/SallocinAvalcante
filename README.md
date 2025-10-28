@@ -5,7 +5,7 @@
 
 <p align="left"> 
 ​⭐​ Welcome to my GitHub ​⭐​ <br><br>
- I'm Nicollas Cavalcante, 21 y/o(2025), I´am a Dev in Java, C#, and PHP, i´ve studying programming and Pentest since of my 12 years old, and i have a lot of experience in support and functions of a ERP
+ I'm Nicollas Cavalcante, 21 y/o(2025), I´am a Dev FullStack in Java,javascript C# and Python, i´ve studying programming and Pentest since of my 12 years old, and i have a lot of experience in support and functions of a ERP
 </p>
 
 <p align="left">
